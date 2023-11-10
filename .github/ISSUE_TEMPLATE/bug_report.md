@@ -7,32 +7,32 @@ assignees: The0Show
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Discord Username & ID**
+<!-- Ex: @person OR Person#0000 - NOT YOUR DISPLAY NAME -->
+<!-- You can get your ID using /info user -->
+@the0show (468093150217371649)
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Bug description**
+<!-- What's the problem? Be as detailed as possible. -->
+Tower Maiden refuses to give me my tower info
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Steps to reproduce**
+<!-- How can we trigger this bug? -->
+1. Run `/tower info`
+2. Observe
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Expected result**
+<!-- What did you expect to happen? -->
+Tower Maiden giving me my tower info
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Actual result**
+<!-- What actually happened? -->
+Tower Maiden says "NO" in bold, underline, and italics
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Version & Commit**
+<!-- Run /status and type in the version number (vX.X.X) and commit hash (Commit xxxxxxx) -->
+Tower Maiden v0.0.0 Build c067d59
 
-**Additional context**
-Add any other context about the problem here.
+**Additional information**
+<!-- Tell us anything else that relates to this problem. Include screenshots here, too! -->
+![Screenshot of Tower Maiden, the user has run the tower info command, and the bot has responded by saying no, bolded, underlined, and italicised.](image.png)
