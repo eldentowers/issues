@@ -35,4 +35,4 @@ Tower Maiden v0.0.0 Build c067d59
 
 **Additional information**
 <!-- Tell us anything else that relates to this problem. Include screenshots here, too! -->
-![Screenshot of Tower Maiden, the user has run the tower info command, and the bot has responded by saying no, bolded, underlined, and italicised.](image.png)
+![Screenshot of Tower Maiden, the user has run the tower info command, and the bot has responded by saying no, bolded, underlined, and italicised.](https://raw.githubusercontent.com/eldentowers/issues/main/.github/ISSUE_TEMPLATE/image.png)
